@@ -2,7 +2,7 @@
 <h3 align="center">Final Year BE-ECE Student | Full Stack Learner | Future Developer from Tamil Nadu</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Java+%7C+Python+%7C+React+JS+%7C+MongoDB+%7C+Full+Stack+Dev+in+progress;Always+learning+new+technologies+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Java+%7C+Python+%7C+React+JS+%7C+MongoDB+%7C+Full+Stack+Dev+in+progress;Always+learning+new+technologies+🚀" alt="Typing SVG" />
 </p>
 
 ---
